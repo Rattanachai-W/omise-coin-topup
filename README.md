@@ -32,9 +32,7 @@
 ## Tech Stack
 
 - Omise Payment Gateway
-- PromptPay QR
-- HTML / CSS / JavaScript
-- Backend API
+- Next.js
 
 ---
 
